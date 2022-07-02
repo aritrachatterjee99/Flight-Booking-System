@@ -1,0 +1,124 @@
+.ui_main_book{
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: rgb(139, 167, 175);
+}
+.ui_form_book{
+    background-color: #6bf3d1;
+	margin-top: 10px;
+	height: 1100px;
+	width: 500px;
+	border-radius: 15px;
+}
+.input-field-book{
+	background-color: #67a8f3;
+    padding: 10px;
+    margin: 10px 10px 22px 10px;
+    border-radius: 4px;
+    border: 1px solid rgb(14, 13, 13);
+}
+.ui_button_book{
+    background-color: rgb(7, 160, 28);
+	width: 100px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 20px;
+}
+
+.bookcnfrmbtn{
+    background-color: rgb(7, 160, 28);
+	width: 100px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 20px;
+}
+
+
+.flight_Id {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.user_First_Name {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.user_Last_Name {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.user_Gender {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.user_Contact {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.date_of_Journey {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.no_of_Passanger {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+.cancelbookbtn {
+    background-color: red;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 20px;
+    margin-left: 400px;
+}

@@ -1,0 +1,123 @@
+.ui_main_signin{
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: rgb(139, 167, 175);
+}
+.ui_form_signin{
+    background-color: #6bf3d1;
+	margin-top: 20px;
+	height: 1060px;
+	width: 500px;
+	border-radius: 15px;
+}
+.input-field-signin{
+	background-color: #67a8f3;
+    padding: 10px;
+    margin: 10px 10px 22px 10px;
+    border-radius: 4px;
+    border: 1px solid rgb(14, 13, 13);
+}
+.ui_button_signin{
+    background-color: rgb(7, 160, 28);
+	width: 100px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 10px;
+}
+.ui_button_signincnfrm{
+    background-color: rgb(238, 210, 51);
+	width: 200px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 10px;
+}
+
+.loginingbtn{
+    background-color: #1877f2;
+	width: 200px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 20px;
+}
+
+.user_First_Name {
+   padding: 10px 20px;
+   margin: 8px 0;
+   border: 1px solid gray;
+   border-radius: 15px;
+   cursor: pointer;
+   width: 300px;
+   height: 30px;
+   opacity: 0.9;
+}
+
+.user_Last_Name {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.user_Contact {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.password {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.confirm_password {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.dob {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.gender {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 300px;
+    height: 30px;
+    opacity: 0.9;
+}
+

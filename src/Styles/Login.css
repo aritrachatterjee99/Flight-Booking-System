@@ -1,0 +1,73 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: white;
+	
+  }
+  
+  .H1{
+	font-weight: 'lighter';
+	margin-top: 20px;
+  }
+  
+  .loginBox {
+	background-color: #f0f2f5;
+	margin-top: 20px;
+	height: 500px;
+	width: 500px;
+	border: 1px solid gray;
+	border-radius: 15px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+  }
+  .usernameInput{
+	width: 350px;
+	padding: 15px;
+	border-radius: 15px;
+	border: 1px solid gray;
+  }
+  
+  .passInput[type=password] {
+	width: 350px;
+	padding: 15px;
+	border-radius: 15px;
+	border: 1px solid gray;
+  }
+
+  .passInput {
+	margin-top: 10px;
+  }
+  
+  
+  .loginPageBtn {
+	background-color: #1877f2;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 8px;
+	margin-top: 20px;
+  }
+  
+  .forgPass{
+	margin-top: 16px;
+  }
+  
+  .RegisterZ{
+	background-color: #42b72a;
+	border: none;
+	border-radius: 6px;
+	font-size: 17px;
+	line-height: 48px;
+	padding: 0 16px;
+	margin-top: 20px;
+	color: #f0f2f5;
+  }
+  
+  
+  
+  
+  

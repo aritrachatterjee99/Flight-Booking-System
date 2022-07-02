@@ -1,0 +1,33 @@
+.home{
+	align-items: center;
+	justify-content: center;
+	background-color: rgb(139, 167, 175);
+}
+.homeloginPageBtn{
+    background-color: #1877f2;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 8px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+.homesigninPageBtn{
+    background-color: #1877f2;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 8px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.homeadminloginPageBtn{
+    background-color: #1877f2;
+	width: 120px;
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 8px;
+	margin-top: 20px;
+}

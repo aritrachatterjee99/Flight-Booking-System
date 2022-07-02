@@ -1,0 +1,46 @@
+
+.ui_main_cancelk{
+    display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+    height: 350px;
+	background-color: rgb(139, 167, 175);
+}
+.input_field_cancel{
+	background-color: #67a8f3;
+    padding: 10px;
+    margin: 10px 10px 22px 10px;
+    border-radius: 4px;
+    border: 1px solid rgb(14, 13, 13);
+}
+
+.booking_Id_cancel {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+    opacity: 0.9;
+}
+
+.Journey_Date {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: 1px solid gray;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+    opacity: 0.9;
+}
+.ui_button_cancel{
+    background-color: red;
+	width: 150px;
+	padding: 10px;
+	border: 1px solid rgb(12, 11, 11);
+	border-radius: 8px;
+	margin-top: 10px;
+}
